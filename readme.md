@@ -163,12 +163,4 @@ También evidencia la capacidad de transformar datos en una narrativa clara y pr
 3. Review the dashboard structure and interactive filters.
 4. Explore the key business insights shown in the report.
 
----
 
-## 🔗 Connect with Me
-You can use this section to add your LinkedIn, GitHub profile, or portfolio link.
-
-```markdown
-[LinkedIn](https://linkedin.com/in/your-profile)
-[GitHub](https://github.com/your-username)
-```
