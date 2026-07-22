@@ -2,18 +2,6 @@
 
 A professional **Power BI** project focused on analyzing Adidas sales performance across regions, states, retailers, products, and sales channels.
 
----
-
-## 📷 Dashboard Preview
-Add your dashboard screenshot here.
-
-```markdown
-![Adidas Sales Dashboard](./assets/dashboard-preview.png)
-```
-
-> Tip: create a folder called `assets` in your repository and save your dashboard image there as `dashboard-preview.png`.
-
----
 
 ## 🛠️ Tools Used
 
